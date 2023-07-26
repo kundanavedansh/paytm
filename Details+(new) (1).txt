@@ -1,3 +1,18 @@
+Access Level*: SUPERVISOR
+Partner ID*: 200270
+Outlet ID*: BCC10000KUL
+User ID: V10696X@celcom.com.my
+First Name*: Suresh Kumar
+Last Name*: Doddi
+ID Type(NRIC/PASSPORT)*: Z5139912
+ID*: V10696X
+Date Of Birth: 21-04-1984
+Email*: suresh.kumar@axiatadigitallabs.com
+Mobile Number*: 01135159087
+Alternate Phone Number:
+Fax Number:
+Employee SAP ID:
+
 =================================================
 Access Level*: SUPERVISOR
 Partner ID*: 200270
